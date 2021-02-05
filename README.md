@@ -47,6 +47,8 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 --- 
 
 ## ⌨ Como executar o projeto
+
+```
 # Entrar no diretório
 cd proffy-discovery
 
